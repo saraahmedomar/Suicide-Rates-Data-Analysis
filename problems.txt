@@ -1,0 +1,8 @@
+1- the type of age column (Done)
+2- Drop country-year column (Done) 
+3- there is big problems in mean in numerical data (outliers) (Done)
+4- Handle NaNs in HDI for year column (Done)
+5- Handle gdp_for_year ($) format.(Done)
+6- Handle gdp_for_year Data Type.(Done)
+7- There is no country count twice (like : USA,United State) (Done)
+
