@@ -1,0 +1,8 @@
+numpy==2.4.4
+pandas==3.0.0
+plotly==6.3.0
+streamlit==1.56.0
+tensorflow==2.21.0
+statsmodels
+scipy
+scikit-learn
